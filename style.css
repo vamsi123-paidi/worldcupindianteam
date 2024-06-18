@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    background-attachment: fixed;
+    background-color: black;
+    margin-top: 2rem;
+}
+
+h1{
+    font-family: monospace;
+    text-decoration:underline;
+}
+
+p{
+    font-family: monospace;
+    padding-top: 50px;
+}
+
+.profiles{
+    display:grid; 
+    grid-template-columns: auto auto auto;
+    column-gap: 50px;
+}
+
+
+
+
